@@ -19,6 +19,7 @@ For example, if you want to fetch the nucleotide sequences for the CytB gene, fr
 python3 ASB_Assignment_1_Lara_Evangelista.py nucleotide "Passer Domesticus[organism], cytb[gene]" Example.fasta Example.treefile.html AB671333.1_Jazan1 AB671332.1_Arar2
 
 In the end, you'll have two Phylogenetic Tree files, one using maximum likelihood and the other using Bayesian inference (with the suffix "_mrbayes" for easy identification), and a lot of new files on the folder where you ran the command. You may safely delete all of them except the html files.
+
 -----------------------------------------------------------------------------------
 
 If there is any problem executing the program as intended, please send me a message, or open a pull request.
