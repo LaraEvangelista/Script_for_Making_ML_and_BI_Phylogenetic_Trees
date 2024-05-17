@@ -20,6 +20,11 @@ python3 ASB_Assignment_1_Lara_Evangelista.py nucleotide "Passer Domesticus[organ
 
 In the end, you'll have two Phylogenetic Tree files, one using maximum likelihood and the other using Bayesian inference (with the suffix "_mrbayes" for easy identification), and a lot of new files on the folder where you ran the command. You may safely delete all of them except the html files.
 
+There are also additional files, one which is to be used for lists of accession numbers, and the other to concatenate fasta files.
+
+For the accession numbers, the arguments are like this - database accession_numbers.txt name_of_file.fasta name_of_tree.treefile.html root
+For the concatenation, it's like this (put as many fasta files as you want) - file1.fasta file2.fasta name_of_concatenated_file.fasta name_of_concatenated_tree.treefile.html root
+
 -----------------------------------------------------------------------------------
 
 If there is any problem executing the program as intended, please send me a message, or open a pull request.
