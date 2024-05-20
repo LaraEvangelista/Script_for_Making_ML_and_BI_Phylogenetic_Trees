@@ -23,6 +23,7 @@ In the end, you'll have two Phylogenetic Tree files, one using maximum likelihoo
 There are also additional files, one which is to be used for lists of accession numbers, and the other to concatenate fasta files.
 
 For the accession numbers, the arguments are like this - database accession_numbers.txt name_of_file.fasta name_of_tree.treefile.html root
+
 For the concatenation, it's like this (put as many fasta files as you want) - file1.fasta file2.fasta name_of_concatenated_file.fasta name_of_concatenated_tree.treefile.html root
 
 -----------------------------------------------------------------------------------
